@@ -1,0 +1,20 @@
+.note_title {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.note_description {
+    width: 100%;
+    margin: 10px 0px;
+    height: 4em;
+}
+
+input {
+    outline: none;
+    /* border-radius: 15px; */
+}
+
+input::placeholder {
+    padding: 10px;
+    color: red;
+}
